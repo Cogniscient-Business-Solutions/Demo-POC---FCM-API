@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "FirebaseNotificationAPI.Controllers.NotificationController",
+    "Method": "Login",
+    "RelativePath": "api/Notification/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FirebaseNotificationAPI.Models.DTO.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FirebaseNotificationAPI.Controllers.NotificationController",
+    "Method": "Logout",
+    "RelativePath": "api/Notification/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FirebaseNotificationAPI.Models.DTO.LogoutRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FirebaseNotificationAPI.Controllers.NotificationController",
+    "Method": "SendNotification",
+    "RelativePath": "api/Notification/send-notification",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FirebaseNotificationAPI.Models.DTO.NotificationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XIyMxKeU3e2gM40EXgFU5hoIdFJ7EAerdsxro1hAdzE=",
+  "Source": "FirebaseNotificationAPI",
+  "BasePath": "_content/FirebaseNotificationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
